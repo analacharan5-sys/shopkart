@@ -1,0 +1,13 @@
+node_modules
+.env
+*.env
+.env.*
+!.env.example
+*.log
+data/db/
+data/saved_*.json
+*.wt
+*.lock
+*.bson
+diagnostic.data/
+journal/
